@@ -1,0 +1,38 @@
+body {
+  font-family: arial;
+  border-radius: 4px;
+  margin: 50px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.item {
+  background-color: black;
+  border-radius: 4px;
+  padding: 30px;
+  margin: 20px;
+}
+
+h2 {
+  color: #fff;
+  margin: 0px;
+}
+
+p {
+  color: #b2b2b2;
+}
+
+span {
+  color: #febe01;
+}
+
+a {
+  display: inline-block;
+  background-color: #febe01;
+  color: #320;
+  padding: 10px;
+  border-radius: 4px;
+  text-decoration: none;
+}
